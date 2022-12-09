@@ -3,3 +3,5 @@ Resolusi Saya
 -Belajar bahasa pemrograman python
 -Tidak menyepelekan kuliah alias bersungguh-sungguh dalam belajar
 -menjadi pribadi yang lebih taat lagi
+-bercita cita menjadi seorang expert web developer
+-menguasai framework laravel di tahun depan
